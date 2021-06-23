@@ -1,0 +1,37 @@
+/*All code and contents written by Alex Clarke and subject to copyright law */
+
+body {
+	background-position:  center;
+	background-repeat:  no-repeat;
+	background-size: cover;
+	margin: 0;
+	font-family:  Verdana;
+}
+.navbartop {
+	overflow:  hidden;
+	background-color:  lightgrey;
+	position:  fixed;
+	top:  0;
+	width:  100%;
+}
+.navbartop a {
+	float:  left;
+	display: black;
+	color: white; 
+	text-align:  center;
+	padding: 14px 16px;
+	text-decoration:  none;
+	font-size:  14px;
+}
+.navbartop a:hover {
+	background:  #fff;
+	color:  black;
+}
+.main {
+	padding:  10px;
+	text-align:  left;
+	font-family:  Verdana;
+	font-weight:  400;
+	font-size:  12px;
+	color:  black;
+}
